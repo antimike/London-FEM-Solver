@@ -1,0 +1,10 @@
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/rebuild_cache.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/edit_cache.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/info.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/strip_comments.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/run.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/vector-poisson-solver.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/debug.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/release.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/runclean.dir
+/home/user/Documents/Summer 2020/examples/Vector-Poisson-Solver/CMakeFiles/distclean.dir
